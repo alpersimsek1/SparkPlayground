@@ -1,0 +1,10 @@
+target/
+.idea/
+metastore_db/
+derby.log
+*.json
+.DS_Store
+finalResult.json/
+spark-warehouse/
+as.txt
+x/
